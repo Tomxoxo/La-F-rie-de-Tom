@@ -1,0 +1,6 @@
+{
+  "name": "Le Royaume Enchanté de Tom",
+  "description": "Un univers féérique et étincelant dédié à l'âme merveilleuse de Tom. Posez vos questions à sa fée magique pour découvrir sa personnalité divine et ses passions enchantées.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["live_api"]
+}
